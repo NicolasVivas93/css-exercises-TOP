@@ -1,0 +1,19 @@
+.oddP {
+    background-color: #fd9090;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.oddP.extraClass {
+    font-size: 24px;
+}
+
+#even1 {
+    color: #1505e9;
+    font-size: 36px;
+}
+
+#even2 {
+    background-color: #99e2a9;
+    font-weight: bold;
+    font-size: 24px;
+}
