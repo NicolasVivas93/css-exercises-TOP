@@ -1,0 +1,14 @@
+.container .text {
+    background-color: #e0c10f;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* otra alternativa es descendencia con elementos. el resultado es el mismo 
+div p {
+    background-color: #e0c10f;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+} */
